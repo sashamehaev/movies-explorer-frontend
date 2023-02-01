@@ -1,0 +1,31 @@
+.moviesCard {
+    width: 360px;
+    height: 320px;
+    box-shadow: ;
+}
+
+.moviesCard__title {
+    display: flex;
+    justify-content: space-between;
+    padding:18px;
+}
+
+.moviesCard__image {
+    width: 100%;
+    height: 200px;
+}
+
+.moviesCard__button {
+    margin: 18px 130px;
+    padding: 0;
+}
+
+.moviesCard__name {
+    font-size: 15px;
+    margin: 0;
+}
+
+.moviesCard__duration {
+    font-size: 13px;
+    margin: 0;
+}
