@@ -1,0 +1,40 @@
+.register {
+    width: 400px;
+    height: 800px;
+    margin: 70px auto;
+    border: 1px solid red;
+}
+
+.register__logo {
+    width: 38px;
+    height: 38px;
+    margin-bottom: 40px;
+}
+
+.register__header {
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0 0 40px;
+}
+.register__input {
+    width: 366px;
+    height: 16px;
+    padding: 15px;
+    font-size: 13px;
+    font-weight: 400;
+    border: none;
+    border-radius: 8px;
+    background-color: #F4F4F4;
+
+}
+
+.register__inputContainer {
+    
+}
+
+.register__inputLabel {
+    font-size: 10px;
+    font-weight: 400;
+    color: #A0A0A0;
+    margin: 0 0 10px;
+}
