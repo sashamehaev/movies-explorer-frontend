@@ -6,4 +6,10 @@
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
     text-rendering: optimizeLegibility;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 1140px;
+    min-width: 320px;
+    margin: 0 auto;
   }
