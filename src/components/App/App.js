@@ -14,7 +14,8 @@ import MoviesCardList from '../MoviesCardList/MoviesCardList';
 function App() {
   return (
     <>
-      <MoviesCardList />
+    
+      <SavedMovies />
 
     </>
   );
